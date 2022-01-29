@@ -1,8 +1,8 @@
-# About this template
+# Генеративный арт. Рекурсия
 
-This is a template for a sketch using the p5.js library in conjunction with Microsoft Typescript.
+[img]![tree2.gif]()
 
-## References
+## Ссылки
 
 [p5.js library](https://p5js.org/)
 [Typescript](https://www.typescriptlang.org/)
